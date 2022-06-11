@@ -1,0 +1,19 @@
+C:\Users\O_sorayaee\source\repos\Domain\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+C:\Users\O_sorayaee\source\repos\Domain\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\O_sorayaee\source\repos\Domain\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\O_sorayaee\source\repos\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.csprojAssemblyReference.cache
+C:\Users\O_sorayaee\source\repos\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+C:\Users\O_sorayaee\source\repos\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+C:\Users\O_sorayaee\source\repos\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+C:\Users\O_sorayaee\source\repos\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
+E:\projects\C#\New folder\Domain\Domain\bin\Debug\netcoreapp3.1\Domain.deps.json
+E:\projects\C#\New folder\Domain\Domain\bin\Debug\netcoreapp3.1\Domain.dll
+E:\projects\C#\New folder\Domain\Domain\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\projects\C#\New folder\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.AssemblyReference.cache
+E:\projects\C#\New folder\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\New folder\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfoInputs.cache
+E:\projects\C#\New folder\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.AssemblyInfo.cs
+E:\projects\C#\New folder\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.csproj.CoreCompileInputs.cache
+E:\projects\C#\New folder\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.dll
+E:\projects\C#\New folder\Domain\Domain\obj\Debug\netcoreapp3.1\Domain.pdb
