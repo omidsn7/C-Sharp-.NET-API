@@ -1,0 +1,31 @@
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.csprojAssemblyReference.cache
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+C:\Users\O_sorayaee\source\repos\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.genruntimeconfig.cache
+E:\projects\C#\New folder\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.deps.json
+E:\projects\C#\New folder\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.json
+E:\projects\C#\New folder\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.runtimeconfig.dev.json
+E:\projects\C#\New folder\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.dll
+E:\projects\C#\New folder\Domain\Persistence\bin\Debug\netcoreapp3.1\Persistence.pdb
+E:\projects\C#\New folder\Domain\Persistence\bin\Debug\netcoreapp3.1\Domain.dll
+E:\projects\C#\New folder\Domain\Persistence\bin\Debug\netcoreapp3.1\Domain.pdb
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.AssemblyReference.cache
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CopyComplete
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.dll
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.pdb
+E:\projects\C#\New folder\Domain\Persistence\obj\Debug\netcoreapp3.1\Persistence.genruntimeconfig.cache
